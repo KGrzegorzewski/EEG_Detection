@@ -1,8 +1,7 @@
 # Master's Thesis: Development of a Seizure Detection Method Using EEG Signals  
 
 ## Overview  
-This repository contains the source code, documentation, and results of my master's thesis: **"Development of a Seizure Detection Method Using EEG Signals"**.  
-The research focuses on utilizing machine learning techniques for the detection of epileptic seizures based on the CHB-MIT EEG dataset.
+This repository contains the source code, documentation, and results of my master's thesis: **"Development of a Seizure Detection Method Using EEG Signals"**. The research focuses on utilizing machine learning techniques for the detection of epileptic seizures based on the CHB-MIT EEG dataset.
 
 ## Features  
 - Preprocessing of EEG signals, including filtering and feature extraction.  
